@@ -1,0 +1,12 @@
+com\springboot\entity\Author.class
+com\springboot\controller\BookController.class
+com\springboot\dao\AuthorRepository.class
+com\springboot\serviceimpl\BookServiceImpl.class
+com\springboot\SpringbootApplication.class
+com\springboot\serviceimpl\AuthorServiceImpl.class
+com\springboot\dao\BookRepository.class
+com\springboot\dto\BookDto.class
+com\springboot\service\BookService.class
+com\springboot\dto\AuthorDto.class
+com\springboot\entity\Book.class
+com\springboot\service\AuthorService.class
